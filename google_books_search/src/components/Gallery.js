@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import book from "../images/open-book.svg"
 import "./Gallery.css";
 
 
